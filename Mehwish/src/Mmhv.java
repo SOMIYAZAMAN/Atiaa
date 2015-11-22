@@ -5,6 +5,7 @@ public class Mmhv {
 		// TODO Auto-generated method stub
 		System.out.print("Lets play ");
 		System.out.print("sis");
+		System.out.print("local changes");	
 	}
 
 }
